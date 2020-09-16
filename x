@@ -68,5 +68,5 @@
 90026	WARN	(SOAP Action Spoofing - Active/alpha)
 90028	WARN	(Insecure HTTP Method - Active/beta)
 90029	IGNORE	(SOAP XML Injection - Active/alpha)
-90033	IGNORE	(Loosely Scoped Cookie - Passive/beta)
+90033	OUTOFSCOPE	(Loosely Scoped Cookie - Passive/beta)
 90030	WARN	(WSDL File Passive Scanner - Passive/alpha)
