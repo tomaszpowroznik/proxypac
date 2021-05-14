@@ -1,0 +1,1 @@
+bitsadmin.exe /transfer “prerun_ie” https://github.com/hmcts/fpl-ccd-configuration/blob/061b5f6616e57abfb4c13853e377fbcceee21a31/e2e/fixtures/testFiles/mockFile.pdf C:\bar.pdf
